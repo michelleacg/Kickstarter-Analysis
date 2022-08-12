@@ -6,11 +6,18 @@
 The purpose of the Kickstarter Analysis is to help Louise make informed decisions for her theater campaign fundraising by analyzing historical data from Kickstarter, a crowdfunding platform where project creators add incentives for different pledge amounts. Here we will try to uncover hidden trends. 
 ## Analysis and Challenges
 Louise estimates her play will cost $12,000
-Theater campaings in Great Britain are the most successful 
+Theater campaings ar the most successful overall. 
 ### Analysis of Outcomes Based on Launch Date
-The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched![image](https://user-images.githubusercontent.com/111101012/184455090-6886c33e-561d-4586-84a4-0c9d4582b1d8.png)
+The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launchedWwe can see that theater follows the overall trend: there is a spike of successful campaigns that began in June, but that tapers off by the end of the year.
+June seems to be a good omnth to launch a campaign 
+Louise was specially interested on the play "Foresight" which shows that donations are very hight, and that it was active a little under a month. 
+Failed campagined have much higher fundraising goals than successfule Kickstarter campaigns, but failed kickstarter campaignes are unsuccessul for reasons other than asking for too much money. 
 
-### Analysis of Outcomes Based on Goals
+Louise is asking for more than twice the average successful Kickstarter Campaign. 
+
+
+### Analysis of Outcomes Based on Goals![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111101012/184455754-8b986413-6047-4122-91fd-ba24d53a7b4e.png)
+
 ### Challenges and Difficulties Encountered
 ## Results
 
