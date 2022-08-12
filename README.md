@@ -15,6 +15,8 @@ The purpose of the Kickstarter Analysis is to help Louise make informed decision
 Louise estimates her play will cost $12,000
 Theater campaings ar the most successful overall. 
 
+![Parent Category Outcomes Graph](https://user-images.githubusercontent.com/111101012/184456085-ed6deb38-c8d1-4ede-9508-c9de2cccb3f3.png)
+
 ### Analysis of Outcomes Based on Launch Date
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111101012/184455852-ee9e671c-2c7e-48d8-b9ee-f16194d9e290.png)
