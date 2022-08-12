@@ -1,2 +1,2 @@
-# Module-1-Challenge
+# kickstarter-analysis
 #An Analysis of Kickstarter Campaigns
