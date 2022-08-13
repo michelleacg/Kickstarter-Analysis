@@ -22,14 +22,10 @@ In conclusion June seems to be a good month to launch a campaign.
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111101012/184455754-8b986413-6047-4122-91fd-ba24d53a7b4e.png)
-
 Failed campaigns have much higher fundraising goals than successful campaigns. 
 The most successful campaigns have a goal that is less than 1,000.
 
-
-Louise estimates her play will cost $12,000
-Louise is asking for more than twice the average successful Kickstarter Campaign. 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111101012/184455754-8b986413-6047-4122-91fd-ba24d53a7b4e.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -39,3 +35,6 @@ Louise is asking for more than twice the average successful Kickstarter Campaign
 - What can you conclude about the Outcomes based on Goals?
 - What are some limitations of this dataset?
 - What are some other possible tables and/or graphs that we could create?
+
+
+
