@@ -32,8 +32,11 @@ The most successful campaigns have a goal that is less than 1,000.
 When so much data is available, it can go many ways. With Louise's case, she wanted to explore plays in the US, and she also wanted to explore specific plays in Edingburg. There are multiple answers, to multiple questions, and the issue becomes to understand what can be relevant to present.
 
 ## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+**
+- What are two conclusions you can draw about the Outcomes based on Launch Date?**
+  1. The most campaigns succeeded in May, which is also when the most campaigns failed, however this is the month that had the most campaigns launched, and the trend continues in the following months, decreasing all the way to October. 
+  2. The least campaigns succeded in December, but also not many campaigns were launched, as this is the month that had the least campaigns launched. 
+    
 - What can you conclude about the Outcomes based on Goals?
 - What are some limitations of this dataset?
 - What are some other possible tables and/or graphs that we could create?
