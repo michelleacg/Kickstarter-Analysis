@@ -44,11 +44,17 @@ When so much data is available, it can go many ways. With Louise's case, she wan
     The dataset could probably include demographics, which would give Louise a better idea of the audience she needs to target for her campaign.
     
 **- What are some other possible tables and/or graphs that we could create?**
+
     1. Different Campaign categories per year
+    
     2. Average donation trend
+    
     3. Success rate per category and/or sub-category
+    
     4. Success rate per country
+    
     5. Delta between goal amount, and pledged 
+    
     
 
 
