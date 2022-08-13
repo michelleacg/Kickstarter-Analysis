@@ -29,6 +29,8 @@ The most successful campaigns have a goal that is less than 1,000.
 
 ### Challenges and Difficulties Encountered
 
+Sometimes when visualizing data, an individual could start thinking they want to see something, but endup wanting to see something completely different, which seems to be Louise's case, as she wanted to explore plays in the US, but she also wanted to explore specific plays in Edingburg. When there is so much data, there are multiple answers, to multiple questions, and the issue becomes to understand what can be relevant to the individual. 
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
