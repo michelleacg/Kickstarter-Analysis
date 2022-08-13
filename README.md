@@ -12,9 +12,6 @@ The purpose of the Kickstarter Analysis is to help Louise make informed decision
 
 ## Analysis and Challenges
 
- 
-Louise was specially interested on the play "Foresight" which shows that donations are very hight, and that it was active a little under a month. 
-
 ### Analysis of Outcomes Based on Launch Date
 
 The month that launched the most successful Kickstarter campaigns was May. 
@@ -27,9 +24,11 @@ In conclusion June seems to be a good month to launch a campaign.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111101012/184455754-8b986413-6047-4122-91fd-ba24d53a7b4e.png)
 
-Failed campagined have much higher fundraising goals than successfule Kickstarter campaigns, but failed kickstarter campaignes are unsuccessul for reasons other than asking for too much money. 
+Failed campaigns have much higher fundraising goals than successful campaigns. 
+The most successful campaigns have a goal that is less than 1,000.
+
+
 Louise estimates her play will cost $12,000
-Theater campaings ar the most successful overall.
 Louise is asking for more than twice the average successful Kickstarter Campaign. 
 
 ### Challenges and Difficulties Encountered
