@@ -40,11 +40,13 @@ When so much data is available, it can go many ways. With Louise's case, she wan
     
 **- What can you conclude about the Outcomes based on Goals?**
 
-     The higher the goals, the more the campaigns failed, so having a more conservative goal there will be more chances to succeed
+     The higher the goals, the more the campaigns failed, 
+     so having a more conservative goal there will be more chances to succeed
     
 **- What are some limitations of this dataset?**
 
-    The dataset could probably include demographics, which would give Louise a better idea of the audience she needs to target for her campaign.
+    The dataset could probably include demographics, 
+    which would give Louise a better idea of the audience she needs to target for her campaign.
     
 **- What are some other possible tables and/or graphs that we could create?**
 
