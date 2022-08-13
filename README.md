@@ -17,11 +17,9 @@ Theater campaings ar the most successful overall.
 
 ![Parent Category Outcomes Graph](https://user-images.githubusercontent.com/111101012/184456852-ca40e257-3983-4737-89f4-101ef690eeb5.png)
 
-
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111101012/184460680-77f6f010-99f5-46d6-a866-ddb97346d11b.png)
-
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111101012/184460746-fb5ec81c-e6b3-4a65-bc74-17438b91fde6.png)
 
 The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launchedWwe can see that theater follows the overall trend: there is a spike of successful campaigns that began in June, but that tapers off by the end of the year.
 June seems to be a good omnth to launch a campaign 
