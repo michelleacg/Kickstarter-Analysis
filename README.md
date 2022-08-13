@@ -15,8 +15,8 @@ The purpose of the Kickstarter Analysis is to help Louise make informed decision
 ### Analysis of Outcomes Based on Launch Date
 
 The month that launched the most successful Kickstarter campaigns was May. 
-We can see the  trend for theater where there is a spike of successful campaigns that began in June, but at the end of the year it's not as successful.
-In conclusion June seems to be a good month to launch a campaign.
+We can see the  trend for theater where there is a spike of successful campaigns that began in May, but at the end of the year the sucess begins to be reduced.
+In conclusion May seems to be a good month to launch a campaign.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111101012/184460746-fb5ec81c-e6b3-4a65-bc74-17438b91fde6.png)
 
