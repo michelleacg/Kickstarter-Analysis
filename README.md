@@ -25,7 +25,7 @@ In conclusion May seems to be a good month to launch a campaign.
 Failed campaigns have much higher fundraising goals than successful campaigns. 
 The most successful campaigns have a goal that is less than 1,000.
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111101012/184455754-8b986413-6047-4122-91fd-ba24d53a7b4e.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111101012/184795060-a73a7ea4-6863-4cdc-b744-f9b4edfc7aba.png)
 
 ### Challenges and Difficulties Encountered
 
